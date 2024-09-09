@@ -12,7 +12,7 @@ This repository contains hands-on projects designed to enhance your skills in va
   - Linux VM
   - Wireshark
   - Python
-- **Link**: [Phishing Attack Investigation](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-1-Phishing-Attack-Investigation.md)
+- **Link**: [Phishing Attack Investigation](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-1-Phishing-Attack-Investigation)
 
 ### Project 2: Malware Analysis and Containment
 
@@ -23,7 +23,7 @@ This repository contains hands-on projects designed to enhance your skills in va
   - Windows VM
   - IDA Pro
   - OllyDbg
-- **Link**: [Malware Analysis and Containment](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-2-Malware-Analysis-and-Containment.md)
+- **Link**: [Malware Analysis and Containment](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-2-Malware-Analysis-and-Containment)
 
 ### Project 3: Network Intrusion Detection and Response
 
@@ -33,7 +33,7 @@ This repository contains hands-on projects designed to enhance your skills in va
   - Wireshark
   - tcpdump
   - Suricata
-- **Link**: [Network Intrusion Detection and Response](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-3-Network-Intrusion-Detection-and-Response.md)
+- **Link**: [Network Intrusion Detection and Response](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-3-Network-Intrusion-Detection-and-Response)
 
 ### Project 4: DDoS Attack Detection and Response
 
@@ -44,6 +44,6 @@ This repository contains hands-on projects designed to enhance your skills in va
   - DDoSify
   - snort
   - fail2ban
-- **Link**: [DDoS Attack Detection and Response](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-4-DDoS-attack-detection-and-response.md)
+- **Link**: [DDoS Attack Detection and Response](https://github.com/devang-9456/Incident-Response-Projects-for-Beginners/blob/main/Project-4-DDoS-attack-detection-and-response)
 
 ## Get Started
